@@ -479,7 +479,7 @@ body.dark .dark-toggle i {
 
 @media (max-width: 475px) {
   .dark-toggle {
-    top: 70px;
+    top: 90px;
     right: 20px;
   }
 }
